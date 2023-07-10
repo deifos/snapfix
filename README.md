@@ -1,4 +1,6 @@
 # SnapFix
+Check it out at https://snapfix.vervel.app
+
 Inpainting tool using Stable Diffusion, This project uses https://github.com/shadcn/ui 
 
 ![hero](public/images/hero.png)
